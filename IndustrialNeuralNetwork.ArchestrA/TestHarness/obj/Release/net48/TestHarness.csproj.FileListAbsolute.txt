@@ -1,0 +1,13 @@
+C:\Users\PLLegowsAd\OneDrive - NESTLE\VisualStudioProjects\IndustrialNeuralNetwork.ArchestrA\TestHarness\bin\Release\net48\TestHarness.exe.config
+C:\Users\PLLegowsAd\OneDrive - NESTLE\VisualStudioProjects\IndustrialNeuralNetwork.ArchestrA\TestHarness\bin\Release\net48\TestHarness.exe
+C:\Users\PLLegowsAd\OneDrive - NESTLE\VisualStudioProjects\IndustrialNeuralNetwork.ArchestrA\TestHarness\bin\Release\net48\TestHarness.pdb
+C:\Users\PLLegowsAd\OneDrive - NESTLE\VisualStudioProjects\IndustrialNeuralNetwork.ArchestrA\TestHarness\bin\Release\net48\IndustrialNeuralNetwork.ArchestrA.dll
+C:\Users\PLLegowsAd\OneDrive - NESTLE\VisualStudioProjects\IndustrialNeuralNetwork.ArchestrA\TestHarness\bin\Release\net48\IndustrialNeuralNetwork.ArchestrA.pdb
+C:\Users\PLLegowsAd\OneDrive - NESTLE\VisualStudioProjects\IndustrialNeuralNetwork.ArchestrA\TestHarness\obj\Release\net48\TestHarness.csproj.AssemblyReference.cache
+C:\Users\PLLegowsAd\OneDrive - NESTLE\VisualStudioProjects\IndustrialNeuralNetwork.ArchestrA\TestHarness\obj\Release\net48\TestHarness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PLLegowsAd\OneDrive - NESTLE\VisualStudioProjects\IndustrialNeuralNetwork.ArchestrA\TestHarness\obj\Release\net48\TestHarness.AssemblyInfoInputs.cache
+C:\Users\PLLegowsAd\OneDrive - NESTLE\VisualStudioProjects\IndustrialNeuralNetwork.ArchestrA\TestHarness\obj\Release\net48\TestHarness.AssemblyInfo.cs
+C:\Users\PLLegowsAd\OneDrive - NESTLE\VisualStudioProjects\IndustrialNeuralNetwork.ArchestrA\TestHarness\obj\Release\net48\TestHarness.csproj.CoreCompileInputs.cache
+C:\Users\PLLegowsAd\OneDrive - NESTLE\VisualStudioProjects\IndustrialNeuralNetwork.ArchestrA\TestHarness\obj\Release\net48\TestHarn.F875F39E.Up2Date
+C:\Users\PLLegowsAd\OneDrive - NESTLE\VisualStudioProjects\IndustrialNeuralNetwork.ArchestrA\TestHarness\obj\Release\net48\TestHarness.exe
+C:\Users\PLLegowsAd\OneDrive - NESTLE\VisualStudioProjects\IndustrialNeuralNetwork.ArchestrA\TestHarness\obj\Release\net48\TestHarness.pdb

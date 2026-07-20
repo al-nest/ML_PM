@@ -1,0 +1,6 @@
+C:\Users\PLLegowsAd\OneDrive - NESTLE\VisualStudioProjects\IndustrialNeuralNetwork.ArchestrA\bin\Release\IndustrialNeuralNetwork.ArchestrA.dll
+C:\Users\PLLegowsAd\OneDrive - NESTLE\VisualStudioProjects\IndustrialNeuralNetwork.ArchestrA\bin\Release\IndustrialNeuralNetwork.ArchestrA.pdb
+C:\Users\PLLegowsAd\OneDrive - NESTLE\VisualStudioProjects\IndustrialNeuralNetwork.ArchestrA\obj\Release\IndustrialNeuralNetwork.ArchestrA.csproj.AssemblyReference.cache
+C:\Users\PLLegowsAd\OneDrive - NESTLE\VisualStudioProjects\IndustrialNeuralNetwork.ArchestrA\obj\Release\IndustrialNeuralNetwork.ArchestrA.csproj.CoreCompileInputs.cache
+C:\Users\PLLegowsAd\OneDrive - NESTLE\VisualStudioProjects\IndustrialNeuralNetwork.ArchestrA\obj\Release\IndustrialNeuralNetwork.ArchestrA.dll
+C:\Users\PLLegowsAd\OneDrive - NESTLE\VisualStudioProjects\IndustrialNeuralNetwork.ArchestrA\obj\Release\IndustrialNeuralNetwork.ArchestrA.pdb
